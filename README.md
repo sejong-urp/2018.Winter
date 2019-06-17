@@ -16,3 +16,5 @@
 ## 경쟁률
 - 3.7:1
 
+## 학부인턴십 프로그램 운영 완료 후 설문조사 결과 
+- https://github.com/sejong-urp/2018.Winter/issues/1

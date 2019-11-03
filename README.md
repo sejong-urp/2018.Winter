@@ -1,5 +1,5 @@
 
-## 2018 동계학부인턴십 학생 명단
+## 2019 동계학부인턴십 학생 명단
 | 합격자 | 지원연구실 | 지도교수 | 학과 | 학년 | 
 |:--:|:--:|:--:|:--:|:--:|
 | 김경남 | Mobile Intelligent Embedded Systems Lab. | 김형석 | 소프트웨어학과 | 4학기 | 
@@ -17,4 +17,4 @@
 - 3.7:1
 
 ## 운영 완료 후 학생 설문조사 결과 
-- https://github.com/sejong-urp/2018.Winter/issues/1
+- https://github.com/sejong-urp/2019.Winter/issues/1
